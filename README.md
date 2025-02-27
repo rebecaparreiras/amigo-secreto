@@ -12,9 +12,9 @@
 
 <h3>Passo 2:</h3>
 <p>Repita o Passo 1 quantas vezes for necessário.</p>
-<img width="813" alt="03" src="https://github.com/user-attachments/assets/a3bbb78e-aa2d-4a96-8be1-cdfe2bf96a94" />
+<img width="813" alt="03" src="https://github.com/user-attachments/assets/2b7c8f49-4e1c-46dd-986a-20c9681d714f" />
 
 <h3>Passo 3:</h3>
 <p>Ao terminar de adicionar todos os nomes, pressione o botão "Sortear Amigo".</p>
-<img width="812" alt="04" src="https://github.com/user-attachments/assets/97f3667f-7b46-4ce8-832e-e30bb9ed8ffb" />
+<img width="813" alt="04" src="https://github.com/user-attachments/assets/32b58760-50e7-4c02-8560-f3f47fc5a8de" />
 
