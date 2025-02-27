@@ -13,8 +13,16 @@ function adicionarAmigo() {
 }
 
 function atualizarLista() {
-    const lista = amigosParticipantes;
-    listaAmigos.textContent = lista;
+    let listaHTML = '';
+
+    for (let i = 0; i < amigosParticipantes.length; i++) {
+        const amigos = amigosParticipantes[i];
+        const html = `<li>${amigos}</li>`;
+
+        listaHTML += html;
+    }
+
+    document.querySelector('.name-list').innerHTML = listaHTML;
 }
 
 atualizarLista();
